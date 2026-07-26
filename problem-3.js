@@ -16,7 +16,7 @@ function getFactrial(number) {
   }
   return result;
 }
-// console.log(getFactrial(3));
+console.log(getFactrial(5));
 
 // let factorialOfFour = getFactrial(4);
 // console.log(factorialOfFour);
