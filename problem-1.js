@@ -19,4 +19,3 @@ function checkEvenOrOdd(number) {
 }
 console.log(checkEvenOrOdd(25));
 console.log(checkEvenOrOdd(20));
-
