@@ -3,7 +3,7 @@
 // let arr = [500, 120, 20, 5010, 1220];
 
 // Without function
-// let largest = [0];
+// let largest = arr[0];
 // for (let i = 1; i < arr.length; i++) {
 //   let currentElement = arr[i];
 //   if (currentElement > largest) {
@@ -15,7 +15,7 @@
 
 // With function
 function largestNumerFromArray(arr) {
-  let largest = [0];
+  let largest = arr[0];
   for (let i = 1; i < arr.length; i++) {
     let currentElement = arr[i];
     if (currentElement > largest) {
