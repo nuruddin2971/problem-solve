@@ -11,4 +11,4 @@ function smallestNumerFromArray(arr) {
   }
   return smallest;
 }
-console.log(smallestNumerFromArray([250, 20, 4, 5, 64, 560]));
+console.log(smallestNumerFromArray([250, 20, 4, 5, 64, 560, 1]));
